@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Education: uncompleted higher education.
+Experience: 0 years
+About Me: A little knowledge of the python programming language.
+
